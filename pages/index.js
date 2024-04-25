@@ -27,14 +27,14 @@ export default function Home()
     
       <div className="flex flex-row justify-center items-center w-full h-full bg-pink-200 p-10 drop-shadow-xl">
         <div className="w-2/3 h-64 bg-gradient-to-r from-pink-300 to-pink-200 drop-shadow-xl rounded-full text-center transition-all duration-300">
-          <h1 className="p-20 tracking-wide text-8xl font-bold text-white uppercase drop-shadow-lg">Hi Beautiful</h1>
+          <h1 className="p-20 tracking-wide text-8xl font-bold text-white uppercase drop-shadow-lg">Hi Beautiful </h1>
         </div>
       </div>
 
       <div className="flex flex-row items-center justify-evenly w-full h-96 bg-pink-50">
-        <CommentedImage src='/marina1.jpg' text="wow so pretty"/>
-        <CommentedImage src='/marina2.jpg' text="omg we&apos;re so cute"/>
-        <CommentedImage src='/marina3.jpg' text="we should kiss?"/>
+        <CommentedImage src='/navnu1.jpg' text="wow so pretty"/>
+        <CommentedImage src='/navnu2.jpg' text="omg we&apos;re so cute"/>
+        <CommentedImage src='/navnu3.jpg' text="we should kiss?"/>
       </div>
 
       <div className="text-center w-full h-64 bg-pink-200 drop-shadow-xl">
@@ -47,7 +47,7 @@ export default function Home()
           <img src='https://sweezy-cursors.com/wp-content/uploads/cursor/milk-amp-mocha-bear-love/milk-mocha-bear-love-custom-cursor.png' width={600}/>
           <h1 className='w-1/3 text-pink-300 font-bold text-6xl'>Someone For</h1>
         </div>
-        <h1 className="w-full h-1/4 text-pink-300 font-bold text-6xl uppercase">prom</h1>
+        <h1 className="w-full h-1/4 text-pink-300 font-bold text-6xl uppercase">A Cuddling session</h1>
       </div>
 
       <div className="text-center w-full h-64 bg-pink-200 drop-shadow-xl">
@@ -95,7 +95,7 @@ export default function Home()
       />
 
       <div className="flex flex-row justify-around items-center text-center w-full h-96 bg-pink-50 px-5 pt-5">
-        <h1 className='w-2/3 text-pink-400 font-bold text-6xl'>If I&apos;m C would you be my C++ to prom?</h1>
+        <h1 className='w-2/3 text-pink-400 font-bold text-6xl'>If I&apos;m C would you be my Catu Car foreva and Ever?</h1>
       </div>
 
       <div className="flex flex-row justify-around items-start text-center w-full h-36 bg-pink-50 pb-5">
@@ -162,13 +162,13 @@ export default function Home()
               Name of Partner
             </h2>
             <h3 className='w-2/3 text-black opacity-90 font-bold text-2xl'>
-              Aidan Ouckama
+              Shobhi
             </h3>
             <h2 className='w-2/3 text-black opacity-75 font-bold italic text-2xl'>
               Location
             </h2>
             <h3 className='w-2/3 text-black opacity-90 font-bold text-2xl'>
-              Grove by the River, Newark
+              somewhere inn gendu nagar
             </h3>
             <h2 className='w-2/3 text-black opacity-75 font-bold italic text-2xl'>
               Time
@@ -180,7 +180,7 @@ export default function Home()
               Events
             </h2>
             <h3 className='w-2/3 text-black opacity-90 font-bold text-2xl'>
-              • Dinner • Photos • Prom • Post-Prom •
+              • Dinner • Photos • Cuddles
             </h3>
             <img className="h-24" src="https://cdn.pixabay.com/photo/2018/02/19/20/28/abstract-3166168__480.png" alt=""/>
           </div>
