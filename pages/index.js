@@ -32,8 +32,8 @@ export default function Home()
       </div>
 
       <div className="flex flex-row items-center justify-evenly w-full h-96 bg-pink-50">
-        <CommentedImage src='/navnu1.jpg' text="wow so pretty"/>
-        <CommentedImage src='/navnu2.jpg' text="omg we&apos;re so cute"/>
+        <CommentedImage src='/navnu2.jpg' text="wow so pretty"/>
+        <CommentedImage src='/navnu1.jpg' text="omg we&apos;re so cute"/>
         <CommentedImage src='/navnu3.jpg' text="we should kiss?"/>
       </div>
 
@@ -95,7 +95,7 @@ export default function Home()
       />
 
       <div className="flex flex-row justify-around items-center text-center w-full h-96 bg-pink-50 px-5 pt-5">
-        <h1 className='w-2/3 text-pink-400 font-bold text-6xl'>If I&apos;m C would you be my Catu Car foreva and Ever?</h1>
+        <h1 className='w-2/3 text-pink-400 font-bold text-6xl'>Would you be my Catu Car foreva and Ever?</h1>
       </div>
 
       <div className="flex flex-row justify-around items-start text-center w-full h-36 bg-pink-50 pb-5">
